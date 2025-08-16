@@ -3,7 +3,7 @@ The Fire Risk Calculation System (FRCS) is a desktop application developed as pa
 
 # Key features
 
-# 1. Fire Risk Prediction
+## 1. Fire Risk Prediction
 Calculates fire probability and danger index for forested areas using sensor data (temperature, humidity, terrain slope, fuel quantity). Highlights high-risk zones for prioritized firefighting response.
 
 # 2. Multi-User Access
