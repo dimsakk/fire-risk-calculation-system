@@ -1,0 +1,17 @@
+Dear recipients, please exercise extreme caution near the following forests:
+FDI: 38512.38		ROF: 83794.32		
+Name:             Strofilia            
+SensorId:           1
+Coordinates:        49, 5
+Afq:                9.0
+Slope:              10.0
+Status:             Activated
+
+FDI: 5915.59		ROF: 9136.89		
+Name:               Volou              
+SensorId:           2
+Coordinates:         9, -25
+Afq:               15.0
+Slope:              -2.0
+Status:             Activated
+
